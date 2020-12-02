@@ -10,7 +10,7 @@ You can find more about me and what I'm involved in at:
 
 On here, you'll mainly find some of the repositories accompanying some of my papers.
 
-- א: [paper](https://arxiv.org/abs/2011.14989)
+- [the א calculus](https://arxiv.org/abs/2011.14989)
   - `alethe`: [interpreter](https://github.com/wearley/alethe-repl) [examples](https://github.com/wearley/alethe-examples)
   - `sigma`: [interpreter](https://github.com/wearley/sigma-repl) [examples](https://github.com/wearley/sigma-examples) [syntax](https://github.com/wearley/sigma-syntax)
 - engines of parsimony:
