@@ -16,4 +16,4 @@ On here, you'll mainly find some of the repositories accompanying some of my pap
 - engines of parsimony:
   - [part i](https://arxiv.org/abs/2007.03605): [relativity](https://github.com/wearley/revcomp-relativistic-limits)
   - [part ii](https://arxiv.org/abs/2011.04054): [mfpt toolset](https://github.com/wearley/revcomp-synch-rw-mfpt) [distr1](https://github.com/wearley/revcomp-synch-rw-distribution) [distr2](https://github.com/wearley/revcomp-synch-rw-distribution-2) [gf](https://github.com/wearley/revcomp-synch-rw-generating-functions)
-  - _part iii_: coming soon
+  - [part iii](https://arxiv.org/abs/2012.05655): —
