@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm William Earley, a PhD student at the University of Cambridge 🎓!
+I'm (Dr!) William Earley, a researcher in unconventional forms of computation!
 
 You can find more about me and what I'm involved in at:
 
