@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm (Dr!) Hannah Earley, a researcher in unconventional forms of computation!
+I'm Hannah Earley, a researcher in unconventional forms of computation!
 
 You can find more about me and what I'm involved in at:
 
