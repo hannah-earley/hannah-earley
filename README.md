@@ -4,7 +4,7 @@ I'm Hannah Earley, a researcher in unconventional forms of computation!
 
 You can find more about me and what I'm involved in at:
 
-- Academic 🎓 https://wili.am
+- Academic 🎓 https://ha.nnah.io
 - Personal 👋 https://sourt.in, https://github.com/sourtin
 - molpigs 🐷 https://molpi.gs
 
